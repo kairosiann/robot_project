@@ -2,7 +2,7 @@
 The code in the following repository is split into two parts: android and ros.     
 ROS (Robot Operating System) is used to control the manipulator and mobile base, while Android is used to control the end effector.     
 
-## Running Robot Project    
+## Running Robot Project (YOLOv3 weights have been removed, download them using wget https://pjreddie.com/media/files/yolov3.weights      
 ### Base Control:    
 ```   
 roslaunch turtlebot3_bringup turtlebot3_robot.launch    
