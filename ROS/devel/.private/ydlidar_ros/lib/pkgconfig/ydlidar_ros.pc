@@ -1,0 +1,8 @@
+prefix=/home/ryan/robot_project/devel/.private/ydlidar_ros
+
+Name: ydlidar_ros
+Description: Description of ydlidar_ros
+Version: 1.4.6
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

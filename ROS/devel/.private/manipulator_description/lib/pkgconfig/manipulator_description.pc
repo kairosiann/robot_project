@@ -1,0 +1,8 @@
+prefix=/home/ryan/robot_project/devel/.private/manipulator_description
+
+Name: manipulator_description
+Description: Description of manipulator_description
+Version: 2.0.1
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

@@ -1,0 +1,6 @@
+manipulator_control/manipulator_libs
+/home/ryan/robot_project/devel/.private/manipulator_libs/cmake.lock /home/ryan/robot_project/devel/./cmake.lock
+/home/ryan/robot_project/devel/.private/manipulator_libs/share/manipulator_libs/cmake/manipulator_libsConfig-version.cmake /home/ryan/robot_project/devel/share/manipulator_libs/cmake/manipulator_libsConfig-version.cmake
+/home/ryan/robot_project/devel/.private/manipulator_libs/share/manipulator_libs/cmake/manipulator_libsConfig.cmake /home/ryan/robot_project/devel/share/manipulator_libs/cmake/manipulator_libsConfig.cmake
+/home/ryan/robot_project/devel/.private/manipulator_libs/lib/libmanipulator_libs.so /home/ryan/robot_project/devel/lib/libmanipulator_libs.so
+/home/ryan/robot_project/devel/.private/manipulator_libs/lib/pkgconfig/manipulator_libs.pc /home/ryan/robot_project/devel/lib/pkgconfig/manipulator_libs.pc

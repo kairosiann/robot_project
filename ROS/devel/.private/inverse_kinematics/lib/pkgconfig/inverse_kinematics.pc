@@ -1,0 +1,8 @@
+prefix=/home/ryan/robot_project/devel/.private/inverse_kinematics
+
+Name: inverse_kinematics
+Description: Description of inverse_kinematics
+Version: 0.0.0
+Cflags: -I/home/ryan/robot_project/devel/.private/inverse_kinematics/include
+Libs: -L${prefix}/lib 
+Requires: message_runtime

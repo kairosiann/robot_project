@@ -1,0 +1,3 @@
+Symlinking /home/ryan/robot_project/devel/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig-version.cmake
+Symlinking /home/ryan/robot_project/devel/share/turtlebot3_navigation/cmake/turtlebot3_navigationConfig.cmake
+Symlinking /home/ryan/robot_project/devel/lib/pkgconfig/turtlebot3_navigation.pc

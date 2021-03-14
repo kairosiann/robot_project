@@ -1,0 +1,4 @@
+Symlinking /home/ryan/robot_project/devel/share/robotis_manipulator/cmake/robotis_manipulatorConfig.cmake
+Symlinking /home/ryan/robot_project/devel/share/robotis_manipulator/cmake/robotis_manipulatorConfig-version.cmake
+Symlinking /home/ryan/robot_project/devel/lib/librobotis_manipulator.so
+Symlinking /home/ryan/robot_project/devel/lib/pkgconfig/robotis_manipulator.pc

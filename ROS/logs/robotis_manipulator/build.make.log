@@ -1,0 +1,39 @@
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_nodejs[0m
+[  0%] Built target rosgraph_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_nodejs[0m
+[  0%] Built target std_msgs_generate_messages_nodejs
+[35m[1mScanning dependencies of target std_msgs_generate_messages_lisp[0m
+[  0%] Built target std_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_cpp[0m
+[  0%] Built target std_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_cpp[0m
+[  0%] Built target roscpp_generate_messages_cpp
+[35m[1mScanning dependencies of target roscpp_generate_messages_lisp[0m
+[  0%] Built target roscpp_generate_messages_lisp
+[35m[1mScanning dependencies of target roscpp_generate_messages_eus[0m
+[  0%] Built target roscpp_generate_messages_eus
+[35m[1mScanning dependencies of target std_msgs_generate_messages_py[0m
+[  0%] Built target std_msgs_generate_messages_py
+[35m[1mScanning dependencies of target roscpp_generate_messages_nodejs[0m
+[  0%] Built target roscpp_generate_messages_nodejs
+[35m[1mScanning dependencies of target roscpp_generate_messages_py[0m
+[  0%] Built target roscpp_generate_messages_py
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_cpp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_cpp
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_eus[0m
+[  0%] Built target rosgraph_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_lisp[0m
+[  0%] Built target rosgraph_msgs_generate_messages_lisp
+[35m[1mScanning dependencies of target std_msgs_generate_messages_eus[0m
+[  0%] Built target std_msgs_generate_messages_eus
+[35m[1mScanning dependencies of target rosgraph_msgs_generate_messages_py[0m
+[  0%] Built target rosgraph_msgs_generate_messages_py
+[35m[1mScanning dependencies of target robotis_manipulator[0m
+[ 14%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator.cpp.o[0m
+[ 28%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_common.cpp.o[0m
+[ 42%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_log.cpp.o[0m
+[ 57%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_trajectory_generator.cpp.o[0m
+[ 71%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_manager.cpp.o[0m
+[ 85%] [32mBuilding CXX object CMakeFiles/robotis_manipulator.dir/src/robotis_manipulator/robotis_manipulator_math.cpp.o[0m
+[100%] [32m[1mLinking CXX shared library /home/ryan/robot_project/devel/.private/robotis_manipulator/lib/librobotis_manipulator.so[0m
+[100%] Built target robotis_manipulator

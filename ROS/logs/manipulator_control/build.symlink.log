@@ -1,0 +1,3 @@
+Symlinking /home/ryan/robot_project/devel/share/manipulator_control/cmake/manipulator_controlConfig.cmake
+Symlinking /home/ryan/robot_project/devel/share/manipulator_control/cmake/manipulator_controlConfig-version.cmake
+Symlinking /home/ryan/robot_project/devel/lib/pkgconfig/manipulator_control.pc

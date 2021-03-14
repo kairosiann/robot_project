@@ -1,0 +1,5 @@
+camera
+/home/ryan/robot_project/devel/.private/camera/cmake.lock /home/ryan/robot_project/devel/./cmake.lock
+/home/ryan/robot_project/devel/.private/camera/share/camera/cmake/cameraConfig.cmake /home/ryan/robot_project/devel/share/camera/cmake/cameraConfig.cmake
+/home/ryan/robot_project/devel/.private/camera/share/camera/cmake/cameraConfig-version.cmake /home/ryan/robot_project/devel/share/camera/cmake/cameraConfig-version.cmake
+/home/ryan/robot_project/devel/.private/camera/lib/pkgconfig/camera.pc /home/ryan/robot_project/devel/lib/pkgconfig/camera.pc

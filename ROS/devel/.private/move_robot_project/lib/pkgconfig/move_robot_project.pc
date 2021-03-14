@@ -1,0 +1,8 @@
+prefix=/home/ryan/robot_project/devel/.private/move_robot_project
+
+Name: move_robot_project
+Description: Description of move_robot_project
+Version: 0.0.0
+Cflags: 
+Libs: -L${prefix}/lib 
+Requires: 

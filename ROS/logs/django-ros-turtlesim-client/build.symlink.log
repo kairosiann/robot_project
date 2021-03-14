@@ -1,0 +1,3 @@
+Symlinking /home/ryan/robot_project/devel/share/django-ros-turtlesim-client/cmake/django-ros-turtlesim-clientConfig.cmake
+Symlinking /home/ryan/robot_project/devel/share/django-ros-turtlesim-client/cmake/django-ros-turtlesim-clientConfig-version.cmake
+Symlinking /home/ryan/robot_project/devel/lib/pkgconfig/django-ros-turtlesim-client.pc

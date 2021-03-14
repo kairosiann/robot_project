@@ -1,0 +1,6 @@
+robotis_manipulator
+/home/ryan/robot_project/devel/.private/robotis_manipulator/cmake.lock /home/ryan/robot_project/devel/./cmake.lock
+/home/ryan/robot_project/devel/.private/robotis_manipulator/share/robotis_manipulator/cmake/robotis_manipulatorConfig.cmake /home/ryan/robot_project/devel/share/robotis_manipulator/cmake/robotis_manipulatorConfig.cmake
+/home/ryan/robot_project/devel/.private/robotis_manipulator/share/robotis_manipulator/cmake/robotis_manipulatorConfig-version.cmake /home/ryan/robot_project/devel/share/robotis_manipulator/cmake/robotis_manipulatorConfig-version.cmake
+/home/ryan/robot_project/devel/.private/robotis_manipulator/lib/librobotis_manipulator.so /home/ryan/robot_project/devel/lib/librobotis_manipulator.so
+/home/ryan/robot_project/devel/.private/robotis_manipulator/lib/pkgconfig/robotis_manipulator.pc /home/ryan/robot_project/devel/lib/pkgconfig/robotis_manipulator.pc

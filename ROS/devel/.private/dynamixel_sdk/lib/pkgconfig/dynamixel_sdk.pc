@@ -1,0 +1,8 @@
+prefix=/home/ryan/robot_project/devel/.private/dynamixel_sdk
+
+Name: dynamixel_sdk
+Description: Description of dynamixel_sdk
+Version: 3.7.31
+Cflags: -I/home/ryan/robot_project/src/DynamixelSDK/ros/include
+Libs: -L${prefix}/lib -ldynamixel_sdk
+Requires: roscpp rospy

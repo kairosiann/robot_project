@@ -1,0 +1,5 @@
+Symlinking /home/ryan/robot_project/devel/share/ydlidar_ros/cmake/ydlidar_rosConfig.cmake
+Symlinking /home/ryan/robot_project/devel/share/ydlidar_ros/cmake/ydlidar_rosConfig-version.cmake
+Symlinking /home/ryan/robot_project/devel/lib/pkgconfig/ydlidar_ros.pc
+Symlinking /home/ryan/robot_project/devel/lib/ydlidar_ros/ydlidar_client
+Symlinking /home/ryan/robot_project/devel/lib/ydlidar_ros/ydlidar_node

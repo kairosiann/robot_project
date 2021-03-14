@@ -1,0 +1,15 @@
+[35m[1mScanning dependencies of target ydlidar_node[0m
+[  9%] [32mBuilding CXX object CMakeFiles/ydlidar_node.dir/src/ydlidar_node.cpp.o[0m
+[ 18%] [32mBuilding CXX object CMakeFiles/ydlidar_node.dir/sdk/src/impl/unix/list_ports_linux.cpp.o[0m
+[ 27%] [32mBuilding CXX object CMakeFiles/ydlidar_node.dir/sdk/src/impl/unix/unix_serial.cpp.o[0m
+[ 36%] [32mBuilding CXX object CMakeFiles/ydlidar_node.dir/sdk/src/impl/unix/unix_timer.cpp.o[0m
+[ 45%] [32mBuilding CXX object CMakeFiles/ydlidar_node.dir/sdk/src/CYdLidar.cpp.o[0m
+[35m[1mScanning dependencies of target ydlidar_client[0m
+[ 54%] [32mBuilding CXX object CMakeFiles/ydlidar_client.dir/src/ydlidar_client.cpp.o[0m
+[ 63%] [32mBuilding CXX object CMakeFiles/ydlidar_node.dir/sdk/src/serial.cpp.o[0m
+[ 72%] [32mBuilding CXX object CMakeFiles/ydlidar_node.dir/sdk/src/ydlidar_driver.cpp.o[0m
+[ 81%] [32mBuilding C object CMakeFiles/ydlidar_node.dir/sdk/src/lock.c.o[0m
+[ 90%] [32m[1mLinking CXX executable /home/ryan/robot_project/devel/.private/ydlidar_ros/lib/ydlidar_ros/ydlidar_node[0m
+[ 90%] Built target ydlidar_node
+[100%] [32m[1mLinking CXX executable /home/ryan/robot_project/devel/.private/ydlidar_ros/lib/ydlidar_ros/ydlidar_client[0m
+[100%] Built target ydlidar_client

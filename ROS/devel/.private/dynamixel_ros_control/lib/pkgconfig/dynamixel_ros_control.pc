@@ -1,0 +1,8 @@
+prefix=/home/ryan/robot_project/devel/.private/dynamixel_ros_control
+
+Name: dynamixel_ros_control
+Description: Description of dynamixel_ros_control
+Version: 0.0.0
+Cflags: -I/home/ryan/robot_project/devel/.private/dynamixel_ros_control/include
+Libs: -L${prefix}/lib 
+Requires: 

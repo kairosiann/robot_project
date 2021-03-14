@@ -1,0 +1,8 @@
+prefix=/home/ryan/robot_project/devel/.private/manipulator_libs
+
+Name: manipulator_libs
+Description: Description of manipulator_libs
+Version: 2.0.1
+Cflags: -I/home/ryan/robot_project/src/manipulator_control/manipulator_libs/include -I/usr/include/eigen3
+Libs: -L${prefix}/lib -lmanipulator_libs
+Requires: roscpp robotis_manipulator dynamixel_workbench_toolbox cmake_modules

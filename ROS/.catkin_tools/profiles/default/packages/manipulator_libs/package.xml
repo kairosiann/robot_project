@@ -1,0 +1,14 @@
+﻿<?xml version="1.0"?>
+<package format="2">
+  <name>manipulator_libs</name>
+  <version>2.0.1</version>
+  <description>manipulator_libs</description>
+  <license>Apache 2.0</license>
+  <maintainer email="kairosiann@gmail.com">Ryan</maintainer>
+  <buildtool_depend>catkin</buildtool_depend>
+  <depend>roscpp</depend>
+  <depend>robotis_manipulator</depend>
+  <depend>dynamixel_workbench_toolbox</depend>
+  <depend>cmake_modules</depend>
+  <depend>eigen</depend>
+</package>

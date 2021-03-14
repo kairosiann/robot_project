@@ -1,0 +1,4 @@
+Symlinking /home/ryan/robot_project/devel/share/turtlebot3_slam/cmake/turtlebot3_slamConfig-version.cmake
+Symlinking /home/ryan/robot_project/devel/share/turtlebot3_slam/cmake/turtlebot3_slamConfig.cmake
+Symlinking /home/ryan/robot_project/devel/lib/turtlebot3_slam/flat_world_imu_node
+Symlinking /home/ryan/robot_project/devel/lib/pkgconfig/turtlebot3_slam.pc

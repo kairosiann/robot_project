@@ -1,0 +1,5 @@
+django-ros-turtlesim-client
+/home/ryan/robot_project/devel/.private/django-ros-turtlesim-client/cmake.lock /home/ryan/robot_project/devel/./cmake.lock
+/home/ryan/robot_project/devel/.private/django-ros-turtlesim-client/share/django-ros-turtlesim-client/cmake/django-ros-turtlesim-clientConfig.cmake /home/ryan/robot_project/devel/share/django-ros-turtlesim-client/cmake/django-ros-turtlesim-clientConfig.cmake
+/home/ryan/robot_project/devel/.private/django-ros-turtlesim-client/share/django-ros-turtlesim-client/cmake/django-ros-turtlesim-clientConfig-version.cmake /home/ryan/robot_project/devel/share/django-ros-turtlesim-client/cmake/django-ros-turtlesim-clientConfig-version.cmake
+/home/ryan/robot_project/devel/.private/django-ros-turtlesim-client/lib/pkgconfig/django-ros-turtlesim-client.pc /home/ryan/robot_project/devel/lib/pkgconfig/django-ros-turtlesim-client.pc

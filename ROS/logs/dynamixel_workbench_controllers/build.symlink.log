@@ -1,0 +1,5 @@
+Symlinking /home/ryan/robot_project/devel/share/dynamixel_workbench_controllers/cmake/dynamixel_workbench_controllersConfig.cmake
+Symlinking /home/ryan/robot_project/devel/share/dynamixel_workbench_controllers/cmake/dynamixel_workbench_controllersConfig-version.cmake
+Symlinking /home/ryan/robot_project/devel/lib/pkgconfig/dynamixel_workbench_controllers.pc
+Symlinking /home/ryan/robot_project/devel/lib/dynamixel_workbench_controllers/find_dynamixel
+Symlinking /home/ryan/robot_project/devel/lib/dynamixel_workbench_controllers/dynamixel_workbench_controllers

@@ -1,0 +1,2 @@
+- setup-file:
+    local-name: /home/ryan/robot_project/devel/.private/robotis_manipulator/setup.sh

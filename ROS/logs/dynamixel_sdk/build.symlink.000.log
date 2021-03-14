@@ -1,0 +1,5 @@
+Symlinking /home/ryan/robot_project/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig.cmake
+Symlinking /home/ryan/robot_project/devel/share/dynamixel_sdk/cmake/dynamixel_sdkConfig-version.cmake
+Symlinking /home/ryan/robot_project/devel/lib/libdynamixel_sdk.so
+Symlinking /home/ryan/robot_project/devel/lib/pkgconfig/dynamixel_sdk.pc
+Symlinking /home/ryan/robot_project/devel/lib/python2.7/dist-packages/dynamixel_sdk/__init__.py

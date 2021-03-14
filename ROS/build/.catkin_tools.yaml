@@ -1,0 +1,6 @@
+devel_space: /home/ryan/robot_project/devel
+install: false
+install_space: /home/ryan/robot_project/install
+profile: default
+source_space: /home/ryan/robot_project/src
+workspace: /home/ryan/robot_project
