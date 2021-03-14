@@ -1,0 +1,103 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:id="@+id/background"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="#0000ff"
+    android:orientation="vertical"
+    tools:context=".view.main.MainActivity">
+
+<!--    <Button-->
+<!--        android:id="@+id/button"-->
+<!--        android:layout_width="wrap_content"-->
+<!--        android:layout_height="wrap_content" />-->
+
+    <TextView
+        android:id="@+id/top_text"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:singleLine="true"
+        android:text="@string/top_text_en"
+        android:textSize="40sp"
+        android:visibility="visible"/>
+
+    <androidx.constraintlayout.widget.ConstraintLayout
+        android:layout_width="match_parent"
+        android:layout_height="0dp"
+        android:layout_margin="20dp"
+        android:layout_weight="1">
+
+        <LinearLayout
+            android:id="@+id/linearLayout"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:orientation="vertical">
+
+            <FrameLayout
+                android:id="@+id/debug_view"
+                android:visibility="gone"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <!-- FLIR Camera-->
+                <ImageView
+                    android:id="@+id/photo_image"
+                    android:scaleY="-1"
+                    android:layout_width="190dp"
+                    android:layout_height="match_parent"
+                    android:contentDescription="Thermal Image"
+                    android:scaleType="center" />
+
+                <!-- Samsung Camera -->
+                <com.samples.flironecamera.view.main.MyView
+                    android:id="@+id/myView"
+                    android:layout_width="190dp"
+                    android:layout_height="match_parent" />
+
+            </FrameLayout>
+
+            <com.samples.flironecamera.camera.CameraSourcePreview
+                android:id="@+id/preview"
+                android:layout_width="match_parent"
+                android:layout_height="0dp"
+                android:layout_weight="1">
+
+                <com.samples.flironecamera.camera.GraphicOverlay
+                    android:id="@+id/faceOverlay"
+                    android:layout_width="match_parent"
+                    android:layout_height="match_parent" />
+
+            </com.samples.flironecamera.camera.CameraSourcePreview>
+        </LinearLayout>
+
+        <TextView
+            android:id="@+id/result_textView"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            app:layout_constraintBottom_toBottomOf="@+id/linearLayout"
+            app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintStart_toStartOf="parent"
+            app:layout_constraintTop_toTopOf="@+id/linearLayout" />
+
+
+        <!-- the above code is used in disabled mode -->
+    </androidx.constraintlayout.widget.ConstraintLayout>
+
+    <TextView
+        android:id='@+id/bottom_text'
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:background="#ffffff"
+        android:gravity="bottom"
+        android:singleLine="true"
+        android:freezesText="true"
+        android:text="@string/bottom_text_en"
+        android:textSize="40sp" />
+
+</LinearLayout>

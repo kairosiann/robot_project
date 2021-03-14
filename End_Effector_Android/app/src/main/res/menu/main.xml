@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item
+        android:id="@+id/action_start_discovery"
+        android:title="@string/start_discovery_text" />
+    <item
+        android:id="@+id/action_stop_discovery"
+        android:title="@string/stop_discovery_text" />
+    <item
+        android:id="@+id/action_connect_flirone"
+        android:title="@string/connect_f1_text" />
+    <item
+        android:id="@+id/action_disconnect"
+        android:title="@string/disconnect_text" />
+    <item
+        android:id="@+id/action_debug"
+        android:title="Debug" />
+    <item
+        android:id="@+id/action_normal"
+        android:title="Normal" />
+    <item
+        android:id="@+id/action_test"
+        android:title="Test" />
+    <item
+        android:id="@+id/action_chat_bot"
+        android:title="ChatBot" />
+</menu>

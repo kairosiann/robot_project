@@ -1,0 +1,21 @@
+<resources>
+    <string name="app_name">FlirOneCamera</string>
+    <string name="title_text">FLIR ONE Sample application</string>
+    <string name="sdk_version_text">Thermal SDK version %1$s</string>
+    <string name="connect_f1_text">Connect\nFLIR ONE</string>
+    <string name="connect_sim1_text">Connect\nSimulator 1</string>
+    <string name="connect_sim2_text">Connect\nSimulator 2</string>
+    <string name="connection_status_text">Status %1$s</string>
+    <string name="discovery_status_text">Discovery status %1$s</string>
+    <string name="start_discovery_text">start Discovery</string>
+    <string name="stop_discovery_text">stop Discovery</string>
+    <string name="disconnect_text">Disconnect</string>
+    <string name="top_text_kr">안녕하세요 코로나19 지킴이 입니다. 여러분의 체온을 측정합니다. 항상 마스크를 착용하시고 사회적 거리두기를 생활화 합시다.</string>
+    <string name="bottom_text_kr">실례합니다. 체온이 약간 높아보입니다 코로나 관련된 다른 의심증상이 있는지 확인하여 적절하게 대처해 주시기 바랍니다. 협조해 주셔서 감사합니다.</string>
+    <string name="top_text_en">Hello I am a mobile temperature scanner. I will be measuring your temperature and checking for a fever. Please wear your mask and socially distance. Thank you.</string>
+    <string name="bottom_text_en">Excuse me, your temperature seems a little bit high. Please check to see if you are displaying any known COVID-19 symptoms and follow CDC guidelines. Thank you for your cooperation.</string>
+    <string name="chatbot">Chatbot said:</string>
+    <string name="chatbot_start_phrase">Excuse me your temperature seems a little bit high</string>
+    <string name="response">Response:</string>
+    <string name="send">send</string>
+</resources>
