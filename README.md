@@ -13,6 +13,7 @@ rosrun move_robot_project move_robot.py
 ```    
 ### Arm Control:    
 ```    
+roslaunch manipulator_control bringup_arm.launch      
 roslaunch camera bringup_cam.launch    
 roslaunch yolov3_pytorch_ros detector.launch    
 rosrun yolov3_pytorch_ros detect_person.py    
